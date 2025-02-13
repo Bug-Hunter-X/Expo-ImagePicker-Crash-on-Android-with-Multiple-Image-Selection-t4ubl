@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library and selecting multiple images. After selecting images, the application crashes without any specific error message in the console. This usually occurs on Android devices and can be challenging to debug due to the lack of clear error messages.
